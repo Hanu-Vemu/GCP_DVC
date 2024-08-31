@@ -1,5 +1,5 @@
 outs:
-- md5: 4d8b90f1c457e5166c038ff933cc7b56
-  size: 207
+- md5: b3011ac81df842b6e7457fd964011977
+  size: 181
   hash: md5
   path: capstone_project_dataset.csv
